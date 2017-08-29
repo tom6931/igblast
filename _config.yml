@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'NCBI Magic-BLAST'
-subtitle: 'RNA-seq mapping tool'
+title: 'NCBI IgBLAST'
+subtitle: 'B and T cell domains'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
