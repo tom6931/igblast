@@ -10,6 +10,6 @@ IG V domain framework regions and complementarity determining regions. IgBLAST h
 protein sequences and can process sequences in batches. Furthermore, IgBLAST allows searches against the germline gene databases 
 and other sequence databases simultaneously to minimize the chance of missing possibly the best matching germline V gene.
 
-IgBLAST is described in  [(http://www.ncbi.nlm.nih.gov/pubmed/23671333)](http://www.ncbi.nlm.nih.gov/pubmed/23671333)
+IgBLAST is described at  [(http://www.ncbi.nlm.nih.gov/pubmed/23671333)](http://www.ncbi.nlm.nih.gov/pubmed/23671333)
 
 E-mail blast-help@ncbi.nlm.nih.gov with questions or comments.
