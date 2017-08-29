@@ -5,7 +5,7 @@ title: "Germline databases"
 order: 0
 ---
 
-### Blast database files for searching germline V, D, and J genes.  
+#### Blast database files for searching germline V, D, and J genes.  
 You can specify any germline 
 databases you like (using -germline_db_V, -germline_db_J and -germline_db_D options).   
 The NCBI mouse germline gene databases (i.e., mouse_gl_V, etc.) are supplied with igblastn program 
