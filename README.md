@@ -1,2 +1,2 @@
-Magic-BLAST documentation:
-https://ncbi.github.io/magicblast
+IgBLAST documentation:
+https://ncbi.github.io/igblast
