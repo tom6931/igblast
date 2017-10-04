@@ -9,7 +9,7 @@ order: 0
 You can specify any germline 
 databases you like (using -germline_db_V, -germline_db_J and -germline_db_D options).   
 The NCBI mouse germline gene databases (i.e., mouse_gl_V, etc.) are supplied with igblastn program 
-([ftp://ftp.ncbi.nih.gov/blast/executables/igblast/release/LATEST/](FTPSITE) about database details).
+([ftp://ftp.ncbi.nih.gov/blast/executables/igblast/release/LATEST/](ftp://ftp.ncbi.nih.gov/blast/executables/igblast/release/LATEST/) about database details).
   
 To search IMGT germline sequences, you need to download them from IMGT web site 
 ([http://www.imgt.org/IMGT_vquest/share/textes/](http://www.imgt.org/IMGT_vquest/share/textes/) ).  You need to download all V, D and J sequences for whatever 
